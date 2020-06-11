@@ -2,7 +2,6 @@
   My light house welcome project
 */
 
-
 byte soundPlayed;
 
 void setup() {
